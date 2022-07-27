@@ -5,6 +5,8 @@
 
 关键词：数控机床；故障诊断；故障树；图形用户界面
 
+
+
 ### ABSTRACT
 CNC machine tools involve multiple disciplines of technology, and the causes of equipment failure are very complex. The efficiency of fault diagnosis and elimination has a great impact on the production efficiency of enterprises, and Relying solely on the experience of maintenance workers for troubleshooting can no longer meet the production needs of enterprises，so the research and development of fault diagnosis expert systems is of great significance. The algorithm of the traditional fault diagnosis system has many drawbacks, and the expert diagnosis system based on case inference technology has obvious technical advantages.
 
