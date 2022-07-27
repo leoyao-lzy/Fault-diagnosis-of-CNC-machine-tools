@@ -1,1 +1,3 @@
-
+main.py:实现了对与输入故障相似度较高的几个历史案例的查找。
+withExcel.py:在main.py的基础上，增加了对故障库Excel文档的读取功能。
+useGUI.py:在withExcel.py的基础上，构建了简单的图形用户界面（GUI），完成专家系统的可视化。
