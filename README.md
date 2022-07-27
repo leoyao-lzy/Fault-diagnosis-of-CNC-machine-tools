@@ -14,3 +14,5 @@ Based on the fault tree analysis method (FTA), this project established the NL50
 
 Keywords: CNC machine tools; troubleshooting; fault trees; graphical user interface(GUI)
 
+注：本课题所研究的机床归纽威数控装备（苏州）股份有限公司所有，NL502SC数控机床故障案例库为公司内部文件，故未上传，如有需要请联系该公司负责人。
+纽威数控装备（苏州）股份有限公司官网：http://www.newaycnc.com/
